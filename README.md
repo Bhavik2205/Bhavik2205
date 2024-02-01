@@ -25,15 +25,15 @@ I'm Bhavik Patel, a code artisan on a mission to turn coffee into code. With my 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-★★★★☆-yellow?logo=javascript&logoColor=white" alt="JavaScript Logo" height="30"/>
   <img src="https://img.shields.io/badge/Node.js-★★★★☆-green?logo=node.js&logoColor=white" alt="Node.js Logo" height="30"/>
-  <img src="https://img.shields.io/badge/React.js-★★★★☆-blue?logo=react&logoColor=white" alt="React.js Logo" height="30"/>
-  <img src="https://img.shields.io/badge/TypeScript-★★★☆☆-blue?logo=typescript&logoColor=white" alt="TypeScript Logo" height="30"/>
-  <img src="https://img.shields.io/badge/Python-★★☆☆☆-yellow?logo=python&logoColor=white" alt="Python Logo" height="30"/>
-  <img src="https://img.shields.io/badge/C++-★★☆☆☆-purple?logo=c%2B%2B&logoColor=white" alt="C++ Logo" height="30"/>
+  <img src="https://img.shields.io/badge/Express.js-★★★★☆-blue?logo=express&logoColor=white" alt="Express.js Logo" height="30"/>
   <img src="https://img.shields.io/badge/MongoDB-★★★★☆-green?logo=mongodb&logoColor=white" alt="MongoDB Logo" height="30"/>
   <img src="https://img.shields.io/badge/PostgreSQL-★★★★☆-blue?logo=postgresql&logoColor=white" alt="PostgreSQL Logo" height="30"/>
+  <img src="https://img.shields.io/badge/OracleDB-★★★☆☆-red?logo=oracle&logoColor=white" alt="OracleDB Logo" height="30"/>
+  <img src="https://img.shields.io/badge/Mongoose-★★★★☆-green?logo=mongoose&logoColor=white" alt="Mongoose Logo" height="30"/>
+  <img src="https://img.shields.io/badge/TypeORM-★★★★☆-blue?logo=typeorm&logoColor=white" alt="TypeORM Logo" height="30"/>
   <img src="https://img.shields.io/badge/Docker-★★★☆☆-blue?logo=docker&logoColor=white" alt="Docker Logo" height="30"/>
   <img src="https://img.shields.io/badge/RabbitMQ-★★★☆☆-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ Logo" height="30"/>
-  <img src="https://img.shields.io/badge/TypeORM-★★★☆☆-orange?logo=typeorm&logoColor=white" alt="TypeORM Logo" height="30"/>
+  <img src="https://img.shields.io/badge/React-★★★★☆-blue?logo=react&logoColor=white" alt="React Logo" height="30"/>
   <img src="https://img.shields.io/badge/HTML-★★★☆☆-orange?logo=html5&logoColor=white" alt="HTML Logo" height="30"/>
   <img src="https://img.shields.io/badge/CSS-★★★☆☆-blue?logo=css3&logoColor=white" alt="CSS Logo" height="30"/>
   <img src="https://img.shields.io/badge/Electron-★★★☆☆-purple?logo=electron&logoColor=white" alt="Electron Logo" height="30"/>
