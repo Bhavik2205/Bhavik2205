@@ -5,6 +5,7 @@
 [![Twitter](https://img.shields.io/badge/-Follow_me_on_Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Bhavik2205)
 [![Medium](https://img.shields.io/badge/-Read_my_articles_on_Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@bhavik2205)
 [![Instagram](https://img.shields.io/badge/-Follow_me_on_Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sde_patel)
+[![Spotify](https://img.shields.io/badge/-Listen_to_my_latest_tracks_on_Spotify-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/show/0OOrag0KmOCnsGm1sQtDvg)
 
 ## 👋 About Me
 
