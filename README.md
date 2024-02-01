@@ -2,6 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bp-SDE)
 [![GitHub](https://img.shields.io/badge/-Check_out_my_code_on_GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Bhavik2205)
+[![Twitter](https://img.shields.io/badge/-Follow_me_on_Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Bhavik2205)
+[![Medium](https://img.shields.io/badge/-Read_my_articles_on_Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@bhavik2205)
+[![Instagram](https://img.shields.io/badge/-Follow_me_on_Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sde_patel)
 
 ## 👋 About Me
 
