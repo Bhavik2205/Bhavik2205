@@ -1,5 +1,8 @@
 # Hey, Fellow Developer! 🚀
 
+[![LinkedIn](https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bp-SDE)
+[![GitHub](https://img.shields.io/badge/-Check_out_my_code_on_GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Bhavik2205)
+
 ## 👋 About Me
 
 I'm Bhavik Patel, a code artisan on a mission to turn coffee into code. With my keyboard as a paintbrush, I craft elegant and efficient solutions. Currently orchestrating innovation as a Software Developer at Batur Inc.
