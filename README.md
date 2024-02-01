@@ -33,7 +33,7 @@ I'm Bhavik Patel, a code artisan on a mission to turn coffee into code. With my 
   <img src="https://img.shields.io/badge/PostgreSQL-★★★★☆-blue?logo=postgresql&logoColor=white" alt="PostgreSQL Logo" height="30"/>
   <img src="https://img.shields.io/badge/Docker-★★★☆☆-blue?logo=docker&logoColor=white" alt="Docker Logo" height="30"/>
   <img src="https://img.shields.io/badge/RabbitMQ-★★★☆☆-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ Logo" height="30"/>
-  <img src="https://img.shields.io/badge/TypeORM-★★★☆☆-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ Logo" height="30"/>
+  <img src="https://img.shields.io/badge/TypeORM-★★★☆☆-orange?logo=typeorm&logoColor=white" alt="TypeORM Logo" height="30"/>
   <img src="https://img.shields.io/badge/HTML-★★★☆☆-orange?logo=html5&logoColor=white" alt="HTML Logo" height="30"/>
   <img src="https://img.shields.io/badge/CSS-★★★☆☆-blue?logo=css3&logoColor=white" alt="CSS Logo" height="30"/>
   <img src="https://img.shields.io/badge/Electron-★★★☆☆-purple?logo=electron&logoColor=white" alt="Electron Logo" height="30"/>
