@@ -81,27 +81,40 @@ May your code be ever enchanting! 🧙‍♂️✨
 
 ![Code Art](link_to_your_code_art_image.gif)
 
-## 📊 GitHub Stats
+# Hi there, I'm Bhavik Patel 👋
 
-![Om Londhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omlondhe&show_icons=true&count_private=true&theme=radical)
+![Header](https://github.com/Bhavik2205/Bhavik2205/raw/main/assets/header.png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omlondhe&layout=compact&theme=radical)
+I'm a passionate Node.js Developer with a knack for building scalable and efficient applications. Currently exploring the realms of tech and turning ideas into reality.
 
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omlondhe&theme=radical)
+## 🚀 About Me
 
-## 📈 GitHub Contributions
+- 💻 Over [Number of Years] years of experience in software development.
+- 🌐 Skilled in Node.js, Express.js, MongoDB, ReactJS, and more.
+- 🛠️ Proficient in Microservices Architecture, Docker, and various databases.
+- 🏢 Currently working with Batur Inc., contributing to the development of an innovative investment app.
 
-![Yearly Contributions](https://github-readme-stats.vercel.app/api/yearly?username=omlondhe&year=2024&theme=radical)
+## 🛠️ Skills & Tools
 
-## 🌐 GitHub Profile Overview
+![Tech Wizadry](https://github.com/Bhavik2205/Bhavik2205/raw/main/assets/tech_wizadry.png)
 
-- **Contributions in 2024:** 200
-- **Public Repositories:** 152
-- **Joined GitHub:** 3 years ago
+## 📈 GitHub Stats
 
-📧 **Email:** oplondhe@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavik2205&show_icons=true&count_private=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik2205&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavik2205&theme=radical)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavik%20Patel-blue)](www.linkedin.com/in/bp-SDE)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhavik2205-brightgreen)](https://github.com/Bhavik2205)
+[![Twitter](https://img.shields.io/badge/Twitter-%40Bhavik2205-blue)](https://twitter.com/Bhavik2205)
+
+## 📧 Contact Me
+
+- 📧 Email: bhavik252patel@gmail.com
 
 
 
