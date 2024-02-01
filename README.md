@@ -55,3 +55,5 @@ I'm Bhavik Patel, a code artisan on a mission to turn coffee into code. With my 
 I'm open to magical collaborations and mystical opportunities. If you have a quest or a job from the enchanted realms, feel free to send a magical owl my way!
 
 May your code be ever enchanting! 🧙‍♂️✨
+
+![Code Art](link_to_your_code_art_image.gif)
