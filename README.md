@@ -81,14 +81,27 @@ May your code be ever enchanting! 🧙‍♂️✨
 
 ![Code Art](link_to_your_code_art_image.gif)
 
-## 📊 GitHub & GitLab Stats
+## 📊 GitHub Stats
 
-![Bhavik Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavik2205&show_icons=true&count_private=true&hide=contribs&theme=dark)
+![Om Londhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omlondhe&show_icons=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik2205&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omlondhe&layout=compact&theme=radical)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavik2205&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omlondhe&theme=radical)
+
+## 📈 GitHub Contributions
+
+![Yearly Contributions](https://github-readme-stats.vercel.app/api/yearly?username=omlondhe&year=2024&theme=radical)
+
+## 🌐 GitHub Profile Overview
+
+- **Contributions in 2024:** 200
+- **Public Repositories:** 152
+- **Joined GitHub:** 3 years ago
+
+📧 **Email:** oplondhe@gmail.com
+
 
 
 
