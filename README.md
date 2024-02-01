@@ -22,6 +22,13 @@ I'm Bhavik Patel, a code artisan on a mission to turn coffee into code. With my 
 - **Backend Spells:** Node.js, Express.js, Mongoose, RabbitMQ, TypeORM
 - **Frontend Magic:** React.js, HTML, CSS, Electron.js (Yes, I'm electrifying!)
 
+<div align="center">
+  <img src="link_to_js_logo.png" alt="JavaScript Logo" height="50"/>
+  <img src="link_to_nodejs_logo.png" alt="Node.js Logo" height="50"/>
+  <img src="link_to_react_logo.png" alt="React.js Logo" height="50"/>
+  <!-- Add more logos as needed -->
+</div>
+
 ## 🚀 Epic Adventures
 
 ### Batur Inc. (07/2023 - Present)
