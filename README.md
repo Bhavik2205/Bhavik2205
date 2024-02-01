@@ -4,7 +4,7 @@
 
 I'm a passionate Node.js Developer with a knack for building scalable and efficient applications. My journey in the tech world has been filled with exciting projects and continuous learning. Currently, I am exploring opportunities and contributing to innovative solutions.
 
-- 🌐 Location: [Your Location]
+- 🌐 Location: India
 - 💼 Current Job: Software Developer at Batur Inc.
 - 🎓 Education: Product Engineering (Backend) at School of Accelerated Learning (SOAL)
 
