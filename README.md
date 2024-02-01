@@ -83,14 +83,14 @@ May your code be ever enchanting! 🧙‍♂️✨
 
 ## 📊 GitHub & GitLab Stats
 
-![Bhavik Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavik2205&show_icons=true&count_private=true&hide=contribs&theme=radical)
+![Bhavik Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavik2205&show_icons=true&count_private=true&hide=contribs&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik2205&layout=compact&theme=radical)
 
 ![Bhavik Patel's GitLab Stats](https://gitlab.com/users/Bhavik2205/projects/bhavik2205/badges/master/pipeline.svg)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavik2205&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavik2205&theme=dark)
 
 <!-- GitLab Streak Stats -->
 ![GitLab Streak](https://gitlab.com/Bhavik2205/bhavik2205/badges/master/pipeline.svg)
