@@ -42,7 +42,7 @@ I'm Bhavik Patel, a code artisan on a mission to turn coffee into code. With my 
 
 ## 🚀 Epic Adventures
 
-### Batur Inc. (07/2023 - Present)
+### Batur Inc. (07/2023 - 02/2024)
 - 🚀 Crafted an investment app with a microservices dance using Node.js and RabbitMQ.
 - 🌌 Led the migration from PostgreSQL to MongoDB for data storage nirvana.
 
