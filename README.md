@@ -12,7 +12,7 @@
 I'm Bhavik Patel, a code artisan on a mission to turn coffee into code. With my keyboard as a paintbrush, I craft elegant and efficient solutions. Currently orchestrating innovation as a Software Developer at Batur Inc.
 
 - 🌏 Location: [India, Earth]
-- 💻 Current Job: Crafting awesomeness at Batur Inc.
+- 💻 Current Job: Crafting awesomeness at Ranucle Pvt Ltd.
 - 🎓 Education: Mastering the art of Product Engineering (Backend) at the School of Accelerated Learning (SOAL)
 
 ## ⚡ Tech Wizardry
