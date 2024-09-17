@@ -42,13 +42,14 @@ I'm Bhavik Patel, a code artisan on a mission to turn coffee into code. With my 
 
 ## 🚀 Epic Adventures
 
+### Ranucle Pvt. Ltd. (03/2024 - Present)
+- 🔧 Forged versatile, reusable Node.js modules, weaving seamless integration across realms (projects) and boosting development velocity.
+- ⚡ Enhanced system stability by squashing critical bugs, banishing performance lags, and restoring functionality balance.
+- 🌱 Strengthened maintainability and scalability, reducing the time spell required for future updates and refinements.
+  
 ### Batur Inc. (07/2023 - 02/2024)
 - 🚀 Crafted an investment app with a microservices dance using Node.js and RabbitMQ.
 - 🌌 Led the migration from PostgreSQL to MongoDB for data storage nirvana.
-
-### Grow-Thri (02/2023 - 04/2023)
-- 🌊 Summoned live streaming magic with the 100ms SDK.
-- 💬 Conjured a live chat feature within streams using MongoDB and Node.js.
 
 ### Erience Solutions (09/2022 - 05/2023)
 - 🔮 Enchanted an NFT Marketplace on Binance blockchain with real-time updates.
